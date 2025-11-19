@@ -1,1 +1,12 @@
+Para montar este proyecto se utilizaron los siguientes materiales: 
+
+Componente→ Cantidad→	Descripción / Uso
+Arduino UNO / ESP32	(1)	Microcontrolador que controla el motor y la lógica del sistema.
+Motor servo	(1):	Mueve la compuerta que dispensa el alimento.
+Transistor NPN (1):	Permite controlar motores si usás motor en vez de servo.
+Diodo	(1):	Protección contra picos 
+Resistencias 220Ω o 330Ω	(1–2):	Para LEDs y señales.
+LED (1):	Indica si el sistema está encendido o si está dispensando.
+Botón pulsador	1	Para activar manualmente la dispensación.
+Jumpers	(5-10aprox):	Conexiones entre placa y componentes.
 

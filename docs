@@ -1,4 +1,5 @@
-##Para la conxión de los componentes sigue estos pasos: 
+Para la conexión de los componentes sigue estos pasos: 
+
 Conecta los componentes al ESP32 de esta manera
 1. Sensor PIR (Salida)→ Pin S → GPIO 2
 2. Servomotor (Señal)→ Pin SIG→ GPIO 13

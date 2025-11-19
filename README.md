@@ -44,14 +44,11 @@ Todo el código fuente está en la carpeta:
 En la carpeta `media/` se adjuntan:
 - Fotografías del montaje del comedero
 - Fotos del sistema en funcionamiento
-- Video corto de demostración: `media/video_funcionamiento.mp4`
+- Video corto de demostración
 
 ## Autores
 
-- `<Nombre completo 1>`
-- `<Nombre completo 2>`
-- `<Grupo / paralelo / institución>`
+- `<Monserrath Segura Cambronero>`
 
-## Versión
 
-Versión actual estable: **v1.0**
+

@@ -41,9 +41,7 @@ Todo el código fuente está en la carpeta:
 
 ## Evidencia de funcionamiento
 
-En la carpeta `media/` se adjuntan:
-- Fotografías del montaje del comedero
-- Fotos del sistema en funcionamiento
+En la carpeta `media/` se adjunta:
 - Video corto de demostración
 
 ## Autores
